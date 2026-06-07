@@ -55,7 +55,7 @@ export class LifiApi implements ICredentialType {
 
 	test: ICredentialTestRequest = {
 			"request": {
-				"baseURL": "={{ $credentials.baseUrl }}",
+				"baseURL": "={{ $credentials.url }}",
 				"url": "/v1/status",
 				"method": "GET"
 			}

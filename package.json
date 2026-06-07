@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-lifi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LI.FI cross-chain swap aggregator bridging multiple DEXs and bridges for optimal routing across 28+ blockchain networks",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-lifi",
